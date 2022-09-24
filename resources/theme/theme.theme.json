@@ -4,7 +4,11 @@
   "dark": true,
 
   "colors": {
-    "primaryRed": "#821010"
+    "greyFont":
+    "primaryRed": "#821010",
+    "lightPurple": "#D793FF",
+    "orange": "#FF9A5B",
+    "yellow": "FFCB5B"
   },
 
   "ui": {
